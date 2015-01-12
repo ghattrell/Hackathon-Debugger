@@ -155,3 +155,7 @@ header{
 .win{
   background-image: url('../images/bug.gif');
 }
+
+#levels {
+  margin-top: -123px
+}
